@@ -1,0 +1,1 @@
+This is a txt file which is to validate the commit command to see if it does exists in the master branch when switch to master!
